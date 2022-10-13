@@ -1,0 +1,19 @@
+.search-box{
+    border: 2px solid lightblue;
+    padding: 5px;
+    display: inline;
+    margin-left: 600px;
+}
+#ignore{
+    color: white;
+}
+.card {
+    width: 130px;
+    padding: 40px;
+    height: 150px;
+    margin: 40px;
+    float: left;
+    border-radius: 20px;
+    border: 2px solid lightblue;
+    box-shadow:  4px 4px 1px 1px lightblue;
+}
